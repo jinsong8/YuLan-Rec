@@ -256,6 +256,7 @@ User profiles and relationships between users are fabricated for simulation purp
 | [UGI](https://arxiv.org/abs/2312.11813)                                | 12/23 | Introduce UGI using LLMs and CityGPT to simulate and address urban complexities through intelligent agent interactions                                            |
 
 | [GAR](https://arxiv.org/abs/2412.10415)                                | 12/24 | Introduce automated paper review through agent interactions and multi-round reasoning                                            |
+| [RecInter](https://aclanthology.org/2025.emnlp-main.956)                                | 05/25 | Introduce an interaction-centric agent simulation platform for dynamic recommender systems evaluation                                           |
 
 ## 💪 Maintainers
    
@@ -287,3 +288,4 @@ Welcome to cite our paper if you find it helpful. [![Paper](https://img.shields.
       primaryClass={cs.IR}
 }
 ```
+
